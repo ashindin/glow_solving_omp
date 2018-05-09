@@ -1,3 +1,11 @@
+# Binary, Images
+*.bin
+*.fit
+*.fits
+
+# Parameters files
+*.pars
+
 # Prerequisites
 *.d
 
